@@ -63,7 +63,6 @@
 		3A1D153A2642B98500FCC105 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
-				3A1D15582642CD0600FCC105 /* harrypotter.mp4 */,
 				3A1D15522642C9C700FCC105 /* Model */,
 				3A1D15542642C9D000FCC105 /* View */,
 				3A1D15532642C9CC00FCC105 /* Controller */,
@@ -99,6 +98,7 @@
 		3A1D15552642C9D600FCC105 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3A1D15582642CD0600FCC105 /* harrypotter.mp4 */,
 				3A1D153D2642B98500FCC105 /* art.scnassets */,
 				3A1D15442642B98700FCC105 /* Assets.xcassets */,
 				3A1D15492642B98700FCC105 /* Info.plist */,

@@ -9,4 +9,5 @@ import Foundation
 
 struct Constants {
     static let assetsGroupName = "NewsPaperImages"
+    static let harryPotterMp4 = "harrypotter.mp4"
 }
