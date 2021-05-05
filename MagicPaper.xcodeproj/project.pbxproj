@@ -14,6 +14,8 @@
 		3A1D15452642B98700FCC105 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D15442642B98700FCC105 /* Assets.xcassets */; };
 		3A1D15482642B98700FCC105 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D15462642B98700FCC105 /* LaunchScreen.storyboard */; };
 		3A1D15512642B9E800FCC105 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D15502642B9E800FCC105 /* README.md */; };
+		3A1D15592642CD0600FCC105 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3A1D15582642CD0600FCC105 /* harrypotter.mp4 */; };
+		3A1D155B2642CD7A00FCC105 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1D155A2642CD7A00FCC105 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		3A1D15472642B98700FCC105 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A1D15492642B98700FCC105 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A1D15502642B9E800FCC105 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		3A1D15582642CD0600FCC105 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
+		3A1D155A2642CD7A00FCC105 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,7 @@
 		3A1D153A2642B98500FCC105 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				3A1D15582642CD0600FCC105 /* harrypotter.mp4 */,
 				3A1D15522642C9C700FCC105 /* Model */,
 				3A1D15542642C9D000FCC105 /* View */,
 				3A1D15532642C9CC00FCC105 /* Controller */,
@@ -114,6 +119,7 @@
 		3A1D15572642C9E800FCC105 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				3A1D155A2642CD7A00FCC105 /* Constants.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -178,6 +184,7 @@
 			files = (
 				3A1D153E2642B98500FCC105 /* art.scnassets in Resources */,
 				3A1D15482642B98700FCC105 /* LaunchScreen.storyboard in Resources */,
+				3A1D15592642CD0600FCC105 /* harrypotter.mp4 in Resources */,
 				3A1D15512642B9E800FCC105 /* README.md in Resources */,
 				3A1D15452642B98700FCC105 /* Assets.xcassets in Resources */,
 				3A1D15432642B98500FCC105 /* Main.storyboard in Resources */,
@@ -213,6 +220,7 @@
 			files = (
 				3A1D15402642B98500FCC105 /* ViewController.swift in Sources */,
 				3A1D153C2642B98500FCC105 /* AppDelegate.swift in Sources */,
+				3A1D155B2642CD7A00FCC105 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
